@@ -297,7 +297,7 @@ Includes:
 
 **2️. Sales Performance & Market Insight**
 
-![](images/images/MTN_dataset_cleaning.png)
+![](images/Nova_Retails_Sales.png)
 
 Includes:
 
