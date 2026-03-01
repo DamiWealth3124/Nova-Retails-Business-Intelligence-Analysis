@@ -279,7 +279,7 @@ Insight: Weather-sensitive forecasting can improve stock planning.
 
 **1️. Supply & Promotion Dashboard**
 
-![](images/images/MTN_dataset_cleaning.png)
+![](images/Nova_Retails_Supply.png)
 
 Includes:
 
