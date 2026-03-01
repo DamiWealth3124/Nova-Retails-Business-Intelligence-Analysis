@@ -279,6 +279,8 @@ Insight: Weather-sensitive forecasting can improve stock planning.
 
 **1️. Supply & Promotion Dashboard**
 
+![](images/images/MTN_dataset_cleaning.png)
+
 Includes:
 
 - Total Revenue, Sales, Units Sold
@@ -294,6 +296,8 @@ Includes:
 - Sales vs Orders Comparison
 
 **2️. Sales Performance & Market Insight**
+
+![](images/images/MTN_dataset_cleaning.png)
 
 Includes:
 
