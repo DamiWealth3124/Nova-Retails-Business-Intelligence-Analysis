@@ -76,6 +76,8 @@ Data Modeling (Fact & Dimension relationships)
 
 **Data Cleaning & Preparation**
 
+![](images/Nova_Retails_Data_Cleaning.png)
+
 - Removed duplicate transaction records
 
 - Standardized date formats for time-series analysis
@@ -92,6 +94,8 @@ Data Modeling (Fact & Dimension relationships)
 
 **Data Modeling**
 
+![](images/Nova_Data-Modelling.png)
+
 - Established relationships between:
 
 - Fact Sales Table
@@ -105,6 +109,8 @@ Data Modeling (Fact & Dimension relationships)
 - Promotion Dimension
 
 **Key Measures Created**
+
+![](images/Nova_Retails_DAX_Measures.png)
 
 - Total Revenue = SUM(Revenue) → $455M
 
